@@ -27,9 +27,9 @@
 
 - Division and Modulus [basic] : [video](https://youtu.be/35stgW4jgZ8)
 
-- Division and Modulus [This Contains more knowledge and examples] : [video](https://www.youtube.com/watch?v=jJVaDl_dePk)
+- Division and Modulus [This video Contains more knowledge and examples] : [video](https://www.youtube.com/watch?v=jJVaDl_dePk)
 
--  ##### this video Contains all of above expected *[Division and Modulus]*
+-  ##### This video Contains all of above expected *[Division and Modulus]*
    - General video :[video](https://www.youtube.com/live/nMPz0B9jtwMfeature=share)
 
       - 0:00 **Introduction**
