@@ -29,7 +29,7 @@
 
 - Division and Modulus [This video Contains more knowledge and examples] : [video](https://www.youtube.com/watch?v=jJVaDl_dePk)
 
--  ##### This video Contains all of above expected *[Division and Modulus]*
+-  ##### This video contains all of the above except *[Division and Modulus]*
    - General video :[video](https://www.youtube.com/live/nMPz0B9jtwMfeature=share)
 
       - 0:00 **Introduction**
